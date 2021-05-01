@@ -4,6 +4,7 @@
     React is fast, until it isn't
   </strong>
   <p>
+    
     Learn everything you need to diagnose, profile, and fix performance problems
     in your React application using the Browser Performance Profiler,
     React DevTools Profiler, and proven React optimization techniques.
